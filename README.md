@@ -38,7 +38,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 }
 
 [demo-16-9] {
-  aspect-ratio: '16:9:
+  aspect-ratio: '16:9';
 }
 
 [demo-16-9-content] {
