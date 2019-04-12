@@ -30,28 +30,28 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 <!-- html 结构 -->
 <div aspectratio demo-16-9>
-	<div demo-16-9-content></div>
+  <div demo-16-9-content></div>
 </div>
 
 
 /* css */
 [demo-16-9] {
-	width: 90%;
-	margin: 10px auto;
-	background-color: #eee;
+  width: 90%;
+  margin: 10px auto;
+  background-color: #eee;
 }
 
 [demo-16-9] {
-	aspect-ratio: '16:9';
+  aspect-ratio: '16:9';
 }
 
 [demo-16-9-content] {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	width: 100%;
-	height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
 }
 ```
