@@ -22,7 +22,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ### 教程： https://www.w3cplus.com/mobile/vw-layout-in-vue.html
 > 按照 750px 宽度的设计稿制作的页面，可以直接使用 `px` ，系统会自动转换成 `vw` 
-> 长宽比例用法
+
+##### 长宽比例用法
 ```
 <!-- html 结构 -->
 <div aspectratio demo-16-9>
