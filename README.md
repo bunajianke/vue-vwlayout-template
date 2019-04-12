@@ -1,6 +1,6 @@
 # vue-vw-template
 
-> vw自适应vue模板
+> vw 自适应 vue 模板，开箱即用
 
 ## Build Setup
 
